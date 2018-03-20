@@ -1,0 +1,70 @@
+{
+  "name": "cordova-universal-clipboard",
+  "version": "0.1.0",
+  "description": "Clipboard management plugin for Cordova/PhoneGap",
+  "cordova": {
+    "id": "cordova-universal-clipboard",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Visigo/CordovaClipboard.git"
+  },
+  "keywords": [
+    "cordova",
+    "clipboard",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-wp8",
+    "cordova-windows8",
+    "cordova-windows"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": {
+    "name": "Verso Solutions LLC"
+  },
+  "contributors": [
+    {
+      "name": "Visigo Software Consulting Inc.",
+      "email": "info@visigo.com",
+      "url": "http://www.visigo.com/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Visigo/CordovaClipboard/issues"
+  },
+  "homepage": "https://github.com/Visigo/CordovaClipboard#readme",
+  "gitHead": "9ab8a3801e5e19574a50f759958c9698b27a7710",
+  "_id": "cordova-universal-clipboard@0.1.0",
+  "scripts": {},
+  "_shasum": "2167cb4693e3aea1baba844375793a2bc944a577",
+  "_from": "cordova-universal-clipboard@0.1.0",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "allseeingeye",
+    "email": "dmitriy.khudorozhkov@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "allseeingeye",
+      "email": "dmitriy.khudorozhkov@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "2167cb4693e3aea1baba844375793a2bc944a577",
+    "tarball": "https://registry.npmjs.org/cordova-universal-clipboard/-/cordova-universal-clipboard-0.1.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/cordova-universal-clipboard/-/cordova-universal-clipboard-0.1.0.tgz"
+}

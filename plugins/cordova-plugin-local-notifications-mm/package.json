@@ -1,0 +1,80 @@
+{
+  "name": "cordova-plugin-local-notifications-mm",
+  "cordova_name": "Cordova LocalNotification Plugin",
+  "version": "1.0.6",
+  "description": "Schedules and queries for local notifications",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpalou/cordova-plugin-local-notifications.git"
+  },
+  "keywords": [
+    "appplant",
+    "notification",
+    "local notification",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ],
+  "platforms": [
+    "ios",
+    "android",
+    "windows"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.0"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.3.0"
+    },
+    {
+      "name": "cordova-windows",
+      "version": ">=4.2.0"
+    }
+  ],
+  "dependencies": {
+    "cordova-plugin-device": "*",
+    "cordova-plugin-app-event": ">=1.1.0"
+  },
+  "author": {
+    "name": "Sebastián Katzer"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/katzer/cordova-plugin-local-notifications/issues"
+  },
+  "homepage": "https://github.com/katzer/cordova-plugin-local-notifications#readme",
+  "gitHead": "54f6be063e4d85d3274b8e42071c09970b2b0990",
+  "_id": "cordova-plugin-local-notifications-mm@1.0.6",
+  "_shasum": "6c73d4e0cfabfada1b65831870b076e3929c23c2",
+  "_from": "cordova-plugin-local-notifications-mm@latest",
+  "_npmVersion": "4.3.0",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "dpalou",
+    "email": "dani@moodle.com"
+  },
+  "dist": {
+    "shasum": "6c73d4e0cfabfada1b65831870b076e3929c23c2",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-local-notifications-mm/-/cordova-plugin-local-notifications-mm-1.0.6.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "dpalou",
+      "email": "dani@moodle.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-local-notifications-mm-1.0.6.tgz_1494916408720_0.7868565917015076"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-local-notifications-mm/-/cordova-plugin-local-notifications-mm-1.0.6.tgz"
+}
