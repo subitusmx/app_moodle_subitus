@@ -1,6 +1,6 @@
 {
   "name": "moodlemobile2",
-  "app_id": "2a65f736",
+  "app_id": "d77a3405",
   "watchPatterns": [
     "www/**/*.html",
     "www/build/**/*",
